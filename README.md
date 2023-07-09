@@ -9,7 +9,7 @@ This is a simple way to create a robot that send to me every day informations, i
 - nodemailer
 - nodemon
 
-# Wow start
+# How start
 
 - clone the project
 - npm init or yarn init
